@@ -1,5 +1,5 @@
 
-# Calorie Burn Prediction - Machine Learning Project
+# Calorie Burnt Prediction - Machine Learning Project
 
 This project predicts the number of calories burned during exercise based on various physiological parameters such as age, gender, weight, and other exercise-related details. The machine learning model is built using a Random Forest Regressor, and the dataset includes user-specific exercise data and corresponding calorie burn values.
 
